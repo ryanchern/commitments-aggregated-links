@@ -29,7 +29,7 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 [BFT & Proposer-Promised Preconfirmations](https://hackmd.io/@EspressoSystems/bft-and-proposer-promised-preconfirmations) – Espresso Team, Dec 2023
 
-### Blockspace derivatives
+### Blockspace Derivatives
 
 [Structuring Blockspace Derivatives](https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/WKa3GFC03uY34d2MufTyD0c595xVRUEZi9RNG-dHNKs) – Julian Ma, Oct 2022
 
@@ -47,4 +47,4 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 [Stakesure Talk by Sreeram](https://www.youtube.com/watch?v=UeZIxcLaH00&ab_channel=Nethermind) – Sreeram Kannan, Nov 2023
 
-[Stakesure Paper](https://arxiv.org/abs/2401.05797)
+[Stakesure Paper](https://arxiv.org/abs/2401.05797) - Soubhik Deb, Robert Raynor, Sreeram Kannan, Jan 2024
