@@ -2,7 +2,7 @@
 
 Commitments are out-of-consensus guarantees made by proposers to execute on a particular state and deliver a target state.
 
-- **Blockspace commitments**: guarantees around transaction inclusion into yet-to-be-finalized blocks. Pre-confirmations and blockspace derivatives are examples of blockspace commitments.
+- **Blockspace commitments**: guarantees around transaction inclusion into yet-to-be-finalized blocks. Blockspace derivatives are an example of a blockspace commitment.
 - **Execution commitments**: guarantees around state updates on the requested inputs to deliver the target state. Coprocessors are an example of an execution commitment device.
 
 ## Blockspace Commitments
@@ -71,4 +71,4 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 [Stakesure Talk by Sreeram](https://www.youtube.com/watch?v=UeZIxcLaH00&ab_channel=Nethermind) – Sreeram Kannan, Nov 2023
 
-[Stakesure Paper](https://arxiv.org/abs/2401.05797) - Soubhik Deb, Robert Raynor, Sreeram Kannan, Jan 2024
+[Stakesure Paper](https://arxiv.org/abs/2401.05797) - Soubhik Deb, Robert Raynor, and Sreeram Kannan, Jan 2024
