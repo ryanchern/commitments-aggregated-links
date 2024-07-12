@@ -1,4 +1,4 @@
-# Blockspace and Execution Commitments Assorted Links
+# Blockspace and Execution Commitments Aggregated Links
 
 - _Blockspace commitments_: guarantees with respect to blockspace and its related capacity for transaction inclusion into future blocks. Blockspace derivatives are an example of a blockspace commitment.
 - _Execution commitments_: guarantees with respect to state updates on the requested inputs to deliver the target state. Coprocessors are an example of an execution commitment device.
