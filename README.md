@@ -1,15 +1,13 @@
 # Blockspace and Execution Commitments Assorted Links
 
-Commitments are out-of-consensus guarantees made by proposers to execute on a particular state and deliver a target state.
-
-- **Blockspace commitments**: guarantees around transaction inclusion into yet-to-be-finalized blocks. Blockspace derivatives are an example of a blockspace commitment.
-- **Execution commitments**: guarantees around state updates on the requested inputs to deliver the target state. Coprocessors are an example of an execution commitment device.
+- _Blockspace commitments_: guarantees with respect to blockspace and its related capacity for transaction inclusion into future blocks. Blockspace derivatives are an example of a blockspace commitment.
+- _Execution commitments_: guarantees with respect to state updates on the requested inputs to deliver the target state. Coprocessors are an example of an execution commitment device.
 
 ## Blockspace Commitments
 
 ### Pre-confirmations
 
-Not all pre-confirmations are equal. The different strength of pre-confs lie on a spectrum of weak basic inclusion guarantees to stronger post-execution stateful guarantees (h/t Jon Charb).
+Not all pre-confirmations are equal. The different strength of pre-confs lie on a spectrum of weak basic inclusion guarantees to stronger post-execution stateful guarantees (h/t [Jon Charb](https://x.com/jon_charb)).
 
 [We're All Building the Same Thing](https://dba.xyz/were-all-building-the-same-thing/#Preconfirmations) - Jon Charbonneau, Jun 2024
 
@@ -51,6 +49,8 @@ Not all pre-confirmations are equal. The different strength of pre-confs lie on 
 
 [Based Preconfirmations](https://ethresear.ch/t/based-preconfirmations/17353) – Justin Drake, Nov 2023
 
+[Ethereum Sequencing and Preconfirmations Calls](https://www.youtube.com/watch?v=fbyy_IHo-lI&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR&ab_channel=Ethereum) - Ethereum, Ongoing
+
 [Strawmanning Based Preconfirmations](https://ethresear.ch/t/strawmanning-based-preconfirmations/19695) – Lin Oshitani (Nethermind Research), May 2024
 
 [BFT & Proposer-Promised Preconfirmations](https://hackmd.io/@EspressoSystems/bft-and-proposer-promised-preconfirmations) – Espresso, Dec 2023
@@ -65,7 +65,17 @@ Not all pre-confirmations are equal. The different strength of pre-confs lie on 
 
 [Structuring Blobspace Futures](https://mirror.xyz/tamaratran.eth/6ezSVdmxWv2yN8a2hm_NlJtRSWOm1ql1eRU6Fbv2xfY) - Tamara Tran, May 2024
 
-## Execution Commitments
+<!-- ### Block Distribution Mechanisms
+
+https://ethresear.ch/t/on-block-space-distribution-mechanisms/19764#Block-space-distribution-today
+
+https://ethresear.ch/t/execution-auctions-as-an-alternative-to-execution-tickets/19894
+
+https://mirror.xyz/barnabe.eth/QJ6W0mmyOwjec-2zuH6lZb0iEI2aYFB9gE-LHWIMzjQ
+
+https://ethresear.ch/t/mev-resistant-dynamic-pricing-auction-of-execution-proposal-rights/20024
+
+https://ethresear.ch/t/execution-tickets/17944 -->
 
 ### Coprocessors
 
