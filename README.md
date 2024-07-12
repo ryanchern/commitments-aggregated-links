@@ -9,11 +9,13 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 ### Pre-confirmations
 
-[Standard Preconfirmations and Execution Preconfirmations via Intents](https://www.youtube.com/watch?v=4UiH7PqJPQI&ab_channel=Osmosis) – Dev Ojha, Jun 2024
+Not all pre-confirmations are equal. The different strength of pre-confs lie on a spectrum of weak basic inclusion guarantees to stronger post-execution stateful guarantees (h/t Jon Charb).
 
-[Preconfirmations](https://review.stanfordblockchain.xyz/p/45-preconfirmations) – Stanford Blockchain, Jul 2024
+[We're All Building the Same Thing](https://dba.xyz/were-all-building-the-same-thing/#Preconfirmations) - Jon Charbonneau, Jun 2024
 
 [Preconfirmations for Vanilla Based Rollups](https://hackmd.io/@Perseverance/rJ0nun5yR) - George Spasov, Apr 2024
+
+[Epochs and slots all the way down: ways to give Ethereum users faster transaction confirmation times](https://vitalik.eth.limo/general/2024/06/30/epochslot.html) - Vitalik, Jun 2024
 
 [Preconfirmations: The Fulfillment-Delivery Paradigm](https://mirror.xyz/preconf.eth/sgcuSbd1jgaRXj9odSJW-_OlWIg6jcDREw1hUJnXtgI) - Primev, Feb 2024
 
@@ -23,13 +25,21 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 [How AVSs Enable Scalable, Secure and Customizable Execution](https://www.youtube.com/watch?v=nPgxoZHrCIU&ab_channel=BellCurve) - Ludwig and Muto (Bell Curve), Jun 2024
 
+[Standard Preconfirmations and Execution Preconfirmations via Intents](https://www.youtube.com/watch?v=4UiH7PqJPQI&ab_channel=Osmosis) – Dev Ojha, Jun 2024
+
+[Preconfirmations for transactions on L2](https://review.stanfordblockchain.xyz/i/146232834/the-current-state-of-rollups) – Stanford Blockchain, Jul 2024
+
 [Beyond Spot Transactions: Modeling Dynamic Preconfirmation Auctions](https://mirror.xyz/preconf.eth/iPfGsj55-C-D13hyrj_hj2tHAKU7xzeqltZ6gIum3j4) – Primev, Apr 2024
+
+[Un-confirming "Pre-confirmations"](https://eljhfx.substack.com/p/un-confirming-pre-confirmations) - Elijah, Jun 2024
 
 [Blob Preconfirmations with Inclusion Lists to Mitigate Blob Contention and Censorship](https://ethresear.ch/t/blob-preconfirmations-with-inclusion-lists-to-mitigate-blob-contention-and-censorship/19150) - Christian Matt, Mar 2024
 
 [Evaluating Preconfirmations](https://www.youtube.com/watch?v=Qsl2b7agX7Q&list=PLFRYxG8q7EY59UlLI-FXMC3si9icQmcDL&index=13&ab_channel=SevenXVentures) - Ellie Davidson, Mar 2024
 
 [Don’t Overload the Proposer](https://streameth.org/zuberlin/watch?session=666af08807f92b086c2c2e54) – Vitalik, Jun 2024
+
+[Based proposer commitments - Ethereum’s marketplace for proposer commitments](https://ethresear.ch/t/based-proposer-commitments-ethereum-s-marketplace-for-proposer-commitments/19517?u=drewvanderwerff) - Drew Van der Werff, May 2024
 
 [Ethereum Sequencing and Preconfirms Call Notes](https://docs.google.com/document/d/1FG3nKQdUNb_YHCp_IzSDkC_r7A6HOT11O2YNUjCX-6s/edit#heading=h.2whbk0my4lq5) – Drew Van der Werff and Sam Jernigan, Mar 2024
 
@@ -66,6 +76,8 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 [Cryptoeconomic coprocessors (thread)](https://x.com/sreeramkannan/status/1730310412904599714) – Sreeram Kannan, Nov 2023
 
 [What is a ZK Coprocessor?](https://blog.axiom.xyz/what-is-a-zk-coprocessor/) – Camila Ramos and Yi Sun, Oct 2023
+
+[Verifiable Off-Chain Compute](https://florindigital.substack.com/p/verifiable-off-chain-compute-enabling) - Florin Digital, Jun 2024
 
 ## Insurance (Commitment-Adjacent)
 
