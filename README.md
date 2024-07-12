@@ -21,7 +21,7 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 [Credible Commitments: How Pre-Confirmations Unlock L2 Interoperability](https://www.youtube.com/watch?v=QpJm0IO_foU&ab_channel=BellCurve) - Jonas and Murat (Bell Curve), Mar 2024
 
-[How AVSs Enable Scalable, Secure and Customizable Execution](https://www.youtube.com/watch?v=nPgxoZHrCIU&ab_channel=BellCurve) - Ludwig and Muto (Bell Cuve), Jun 2024
+[How AVSs Enable Scalable, Secure and Customizable Execution](https://www.youtube.com/watch?v=nPgxoZHrCIU&ab_channel=BellCurve) - Ludwig and Muto (Bell Curve), Jun 2024
 
 [Beyond Spot Transactions: Modeling Dynamic Preconfirmation Auctions](https://mirror.xyz/preconf.eth/iPfGsj55-C-D13hyrj_hj2tHAKU7xzeqltZ6gIum3j4) – Primev, Apr 2024
 
@@ -45,7 +45,7 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 [BFT & Proposer-Promised Preconfirmations](https://hackmd.io/@EspressoSystems/bft-and-proposer-promised-preconfirmations) – Espresso, Dec 2023
 
-[Awesome Preconfirmations (Zuberlin)](https://github.com/NethermindEth/awesome-preconfirmations) - Nethermind, Jun 2024
+[Awesome Preconfirmations (ZuBerlin)](https://github.com/NethermindEth/awesome-preconfirmations) - Nethermind, Jun 2024
 
 ### Blockspace Derivatives
 
@@ -58,6 +58,10 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 ## Execution Commitments
 
 ### Coprocessors
+
+[A Brief Intro to Coprocessors](https://crypto.mirror.xyz/BFqUfBNVZrqYau3Vz9WJ-BACw5FT3W30iUX3mPlKxtA) - Emperor, Oct 2023
+
+[Off-Chain Compute is All You Need](https://crypto.mirror.xyz/8TXa9EqNkwjnQNenXscPwyHC6V99dmyhcO7uPYbeaIo) - Emperor and Krane, Nov 2023
 
 [Cryptoeconomic coprocessors (thread)](https://x.com/sreeramkannan/status/1730310412904599714) – Sreeram Kannan, Nov 2023
 
