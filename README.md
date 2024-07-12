@@ -7,8 +7,6 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 ## Blockspace Commitments
 
-–--
-
 ### Pre-confirmations
 
 [Standard Preconfirmations and Execution Preconfirmations via Intents](https://www.youtube.com/watch?v=4UiH7PqJPQI&ab_channel=Osmosis) – Dev Ojha, Jun 2024
@@ -39,8 +37,6 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 ## Execution Commitments
 
-—--
-
 ### Coprocessors
 
 [Cryptoeconomic coprocessors (thread)](https://x.com/sreeramkannan/status/1730310412904599714) – Sreeram Kannan, Nov 2023
@@ -49,7 +45,6 @@ Commitments are out-of-consensus guarantees made by proposers to execute on a pa
 
 ## Insurance (Commitment-Adjacent)
 
-—
 [Stakesure Talk by Sreeram](https://www.youtube.com/watch?v=UeZIxcLaH00&ab_channel=Nethermind) – Sreeram Kannan, Nov 2023
 
 [Stakesure Paper](https://arxiv.org/abs/2401.05797)
