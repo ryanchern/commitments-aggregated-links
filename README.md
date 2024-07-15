@@ -47,6 +47,8 @@ Not all pre-confirmations are equal. The different strength of pre-confs lie on 
 
 [Keynote: Rollup Preconfirmations](https://www.youtube.com/watch?v=boxGqp9mGJ4&ab_channel=Altlayer) - Justin Drake, May 2024
 
+[Preconf.wtf](http://preconf.wtf/) - Zuberlin MEV Day, Jun 2024
+
 [Based Preconfirmations](https://ethresear.ch/t/based-preconfirmations/17353) – Justin Drake, Nov 2023
 
 [Ethereum Sequencing and Preconfirmations Calls](https://www.youtube.com/watch?v=fbyy_IHo-lI&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR&ab_channel=Ethereum) - Ethereum, Ongoing
